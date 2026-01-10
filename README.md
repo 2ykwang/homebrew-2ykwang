@@ -5,7 +5,7 @@ Homebrew formulae for [mac-cleanup-go](https://github.com/2ykwang/mac-cleanup-go
 ## Installation
 
 ```bash
-brew tap 2ykwang/mac-cleanup-go
+brew tap 2ykwang/2ykwang
 brew install mac-cleanup-go
 ```
 
@@ -20,5 +20,5 @@ brew upgrade mac-cleanup-go
 
 ```bash
 brew uninstall mac-cleanup-go
-brew untap 2ykwang/mac-cleanup-go
+brew untap 2ykwang/2ykwang
 ```
